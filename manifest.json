@@ -1,0 +1,18 @@
+{
+  "name": "منصة التقويم الذاتي — عروة بن الزبير",
+  "short_name": "التقويم الذاتي",
+  "description": "منصة إدارة شواهد التقويم الذاتي لمدرسة عروة بن الزبير الابتدائية",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0891B2",
+  "theme_color": "#0891B2",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
